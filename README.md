@@ -5,7 +5,6 @@ HTML, CSS,JS and React JS are using for this development.
 
 This is the front end part for a centralized online system for a recently accredited university known as CorpU, which will enhance and simplify the hiring process for sessional staff each semester which could be quite hectic for permanent staff to manage due to the complexity and time-consuming process involved.
 The front-end part of the application will handle the user interface and user experience. 
-HTML, CSS,JS and React JS are using for this development.
 
 # *Features*
 
@@ -22,12 +21,12 @@ HTML, CSS,JS and React JS are using for this development.
 >Tracking progress for the application 
 
 # *Technologies Used*
-ReactJS
-Redux
-Axios
-Bootstrap
-MomentJS
-Chart.js
+>ReactJS
+>Redux
+>Axios
+>Bootstrap
+>MomentJS
+>Chart.js
 
 # *Getting Started*
 To run the TIP Frontend locally, you will need to have Node.js and npm installed on your machine. Then, follow these steps:
